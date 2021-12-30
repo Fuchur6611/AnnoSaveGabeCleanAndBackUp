@@ -58,7 +58,7 @@ $SaveGameFileExtention = ".a7s"
 ### Backup configuration / Einstellungen für die Sicherung
 # Indicates whether a backup should be created ($true) for YES, ($false) for NO.
 # Gibt an, ob ein Backup erstellt werden soll ($true) für JA, ($false) für NEIN.
-$BackUpActive = $false
+$BackUpActive = $true
 
 # Specifies the path where backups should be stored. (Can also point to a NAS, for example).
 # Gibt den Pfad an, wo Backups abgelegt werden sollen. (Kann bspw. auch auf ein NAS zeigen)
