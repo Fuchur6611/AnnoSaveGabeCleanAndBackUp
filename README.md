@@ -1,6 +1,8 @@
 # AnnoSaveGameBackUpAndCleanup
 Script to create a Backup of your account-folder and clean up old auto save files
 
+*Read this in other languages: [English](README.md), [German](README.de.md).*
+
 ## Requierements
 - Powershell 3 or higher must be installed (already present by default with Windows 10 Home/Pro)
 - Powershell ExecutionPolicy must set on Unrestricted (see https://go.microsoft.com/fwlink/?LinkID=135170 for more information)
