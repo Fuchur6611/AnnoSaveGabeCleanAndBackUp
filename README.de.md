@@ -27,7 +27,7 @@ Wenn du den Haken entfernst, wird die Meldung das nächste Mal nicht mehr auftau
 ![grafik](https://user-images.githubusercontent.com/29517354/147825468-9a1bef87-2177-4c58-bec7-f48d2cce00e1.png)
 
 
-### Repetitive execution 
+### Wiederholende Ausführung
 Kann über die Windows Aufgabenplanung konfiguriert werden
 Hinweis: Für die Aufgabenausführung ist es nötig, die PowerShell ExecutionPolicy anzupassen. Mehr darüber unter "Setup PowerShell ExecutionPolicy".
 
