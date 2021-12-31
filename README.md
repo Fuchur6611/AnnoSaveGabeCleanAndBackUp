@@ -88,4 +88,8 @@ Is the ExecutionPolicy for LocalMaschine already set to RemoteSigned you are fin
 ![image](https://user-images.githubusercontent.com/29517354/147788569-aab1b314-519e-4ba7-a17c-1b745d3ba705.png)
 
 
+## Ideas
+For example, you can save the script twice. Once that it creates backups ($BackUpActive = $true) and once that it does not create backups ($BackUpActive = $false).
 
+Then it would be possible to create two tasks... that e.g. the cleanup is done at every login and the backup only 1x per month.
+![grafik](https://user-images.githubusercontent.com/29517354/147828553-7c4036a1-e22b-4e33-9175-a7c72c961d63.png)
