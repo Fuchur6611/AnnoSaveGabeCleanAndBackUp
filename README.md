@@ -64,7 +64,7 @@ You can simply copy these values. Just make sure that the path to your script fi
 ![grafik](https://user-images.githubusercontent.com/29517354/147822763-72491e45-cf8f-4b22-ad2a-b86087c16d6e.png)
 
 9. The next time you log in to your PC, the script will now run automatically.
-Note: 
+
 
 ## Setup PowerShell ExecutionPolicy
 
