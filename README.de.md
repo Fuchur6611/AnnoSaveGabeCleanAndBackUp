@@ -89,4 +89,10 @@ Ist die ExecutionPolicy für LocalMaschine bereits auf RemoteSigned gesetzt, bis
 ![image](https://user-images.githubusercontent.com/29517354/147788569-aab1b314-519e-4ba7-a17c-1b745d3ba705.png)
 
 
+## Ideen
+Du kannst das Script beispielsweise auch 2x abspeichern. 1x so konfigurieren, dass es Backups erstellt ($BackUpActive = $true) und einmal dass es keine Backups erstellt ($BackUpActive = $false).
+
+Dann wäre es möglich, 2 Aufgaben zu erstellen... dass bspw die Bereinigung bei jedem Login durchgeführt wird und das Backup nur 1x im Monat.
+![grafik](https://user-images.githubusercontent.com/29517354/147828553-7c4036a1-e22b-4e33-9175-a7c72c961d63.png)
+
 
